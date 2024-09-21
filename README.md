@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there buddy 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasipc)](https://github.com/ignasipc/github-readme-stats)
 
